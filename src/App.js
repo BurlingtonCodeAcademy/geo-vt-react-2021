@@ -5,7 +5,7 @@ import Map from './components/Map'
 
 function App() {
 
-  const [center, setCenter] = useState([44.47, -73.213])
+  const [center, setCenter] = useState([43.88, -72.7317])
 
   return (
     <div>
